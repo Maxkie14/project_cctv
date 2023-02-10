@@ -6,6 +6,7 @@
     <div class="col-md-6">.col-sm-4</div>
     <div class="col-md-6">.col-sm-8</div>
       <div class="col-md-6">.col-sm-4</div>
+      
     <div class="col-md-6">.col-sm-4</div>
     <div class="col-md-6">.col-sm-8</div>
 </div>
