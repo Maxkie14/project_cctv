@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="assets/css/glightbox.min.css" />
     <link rel="stylesheet" href="assets/css/main.css" />
 
+<<<<<<< HEAD
     
 
 </head>
@@ -74,6 +75,11 @@
         </div>
     </nav>
     
+=======
+</head>
+
+<body>
+>>>>>>> b145022522fe05e9a55d0d145e240972bc361052
     <!--[if lte IE 9]>
       <p class="browserupgrade">
         You are using an <strong>outdated</strong> browser. Please
